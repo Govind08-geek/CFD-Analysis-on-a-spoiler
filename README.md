@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/31882565/README.2.md)[Upl# CFD Simulation of Flow Around a GT Spoiler using SimScale
+ CFD Simulation of Flow Around a GT Spoiler using SimScale
 
 This project demonstrates a complete Computational Fluid Dynamics (CFD) workflow for incompressible flow around a GT car spoiler using SimScale, a cloud-based engineering simulation platform. The project was completed as part of the Coursera hands-on project platform (Rhyme) which provides pre-configured cloud desktops with all necessary tools.
 
